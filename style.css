@@ -1,3 +1,7 @@
-body{
-    background-color: alicebluedevice-width;
+header{
+    background-color:rgb(0, 0, 0);
+color:blue
 }
+
+.cabecalho-imagem{
+    width: 20%;
